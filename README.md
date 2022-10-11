@@ -12,4 +12,4 @@ glow was made by @AdrianVPL, any p2c use this or skidded version's of it. myself
 if your any good with function hooking in kernel you could possibly make this a better driver.
 
 my discord if you have issue :  ᴛʀᴀᴠᴇꜱᴛʏ#3435
-if your on 2004 download the supported kdmapper.
+if your on 2004 download the supported kdmapper. 
